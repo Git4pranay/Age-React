@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Age_React/static/css/main.073c9b0a.css",
+    "main.js": "/Age_React/static/js/main.bb1b261a.js",
+    "static/js/787.9a1ec5b8.chunk.js": "/Age_React/static/js/787.9a1ec5b8.chunk.js",
+    "index.html": "/Age_React/index.html",
+    "main.073c9b0a.css.map": "/Age_React/static/css/main.073c9b0a.css.map",
+    "main.bb1b261a.js.map": "/Age_React/static/js/main.bb1b261a.js.map",
+    "787.9a1ec5b8.chunk.js.map": "/Age_React/static/js/787.9a1ec5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bb1b261a.js"
+  ]
+}
